@@ -177,3 +177,5 @@ ffmpeg -framerate $FRAMERATE -i /tmp/resampled/frame_%010d.png video_"$FRAMERATE
 This code borrows from the following open source projects, whom we would like to thank:
 
 - [pytorch-template](https://github.com/victoresque/pytorch-template)
+
+https://github.com/MatrixLZ92/rpg_e2vid.wiki.git
